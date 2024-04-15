@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanidhya-das&label=Profile%20views&color=0e75b6&style=flat" alt="sanidhya-das" /> </p>
 
-- 🔭 I’m currently working on **Book-Store Application**
+- 🔭 A sophomore in NIT Jamshedpur
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 Persuing B.Tech in Electronics and Communication
 
-- 💬 Ask me about **MERN**
+- 💬 Always Ready to contribute
 
 - 📫 How to reach me **sanidhyashubham2211@gmail.com**
 
